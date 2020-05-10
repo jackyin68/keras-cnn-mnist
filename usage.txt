@@ -1,0 +1,14 @@
+
+Step 1:
+pip install requirements.txt
+
+Step 2:
+Download mnist.npz data and put into data/raw
+
+Step 3:
+Edit function load_data in mnist.py:
+path = '/home/nlp/PycharmProjects/keras-cnn-mnist/data/raw/mnist.npz'
+
+Step 4:
+Debug and run
+
