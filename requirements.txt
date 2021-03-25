@@ -18,7 +18,7 @@ mkl-service==2.3.0
 numpy==1.18.1
 opt-einsum==3.1.0
 protobuf==3.11.4
-PyYAML==5.3.1
+PyYAML==5.4
 scipy==1.4.1
 six==1.14.0
 tensorboard==2.0.0
